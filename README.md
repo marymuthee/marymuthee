@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mary Muthee — Geospatial Data Scientist
+# 👋 Hi, I'm Mary Muthee, Geospatial Data Scientist
 
 I am a Geospatial Data Scientist passionate about exploring the potential ofgeospatial, Earth Observation 🌍, AI, and Deep Learning. I enjoy transforming complex spatial data into meaningful insights 🗺️, building analytical workflows, and experimenting with modern machine learning techniques  from classical approaches to emerging geospatial foundation models.
 
