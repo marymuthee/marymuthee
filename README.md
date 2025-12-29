@@ -4,9 +4,5 @@ I am a Geospatial Data Scientist passionate about exploring the potential ofgeos
 
 Currently, I am advancing my skills through the **Copernicus Master in Digital Earth (Erasmus Mundus)**, where I am deepening my experience in geospatial technologies, analytical methods, and data-driven problem solving. Alongside my studies, I actively work on projects involving satellite imagery analysis, geospatial modeling, and end-to-end data exploration.
 
-My work is driven by curiosity, continuous learning, and a commitment to understanding how advanced analytical techniques can reveal patterns, support decision-making, and inspire innovative solutions.
-
-I’m continuously building, refining, and sharing my journey — one notebook, one model, one map at a time.
-
 I am always open to collaboration, research exchange, or new ideas.  
 **Feel free to connect!**
