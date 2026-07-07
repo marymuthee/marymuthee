@@ -8,13 +8,13 @@ I am always open to collaboration, research exchange, or new ideas.
 **Feel free to connect!**
 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marymuthee&show_icons=true&theme=github_dark)
 
 <!-- Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=marymuthee&theme=github-dark)
 
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marymuthee&layout=compact&theme=github_dark)
 
 <!-- Activity Graph -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marymuthee&theme=github-dark)
