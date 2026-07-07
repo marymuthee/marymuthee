@@ -7,14 +7,13 @@ Currently, I am advancing my skills through the **Copernicus Master in Digital E
 I am always open to collaboration, research exchange, or new ideas.  
 **Feel free to connect!**
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marymuthee&show_icons=true&theme=github_dark)
+## 📊 GitHub Stats
 
-<!-- Streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=marymuthee&theme=github-dark)
+![Mary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marymuthee&show_icons=true)
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marymuthee&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marymuthee&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=marymuthee)
 
 <!-- Activity Graph -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marymuthee&theme=github-dark)
